@@ -1,1 +1,1 @@
-# jupyterNotbooks to automate processes during born-digital collection processing. 
+# jupyterNotbooks that automate processes during born-digital collection processing. 
